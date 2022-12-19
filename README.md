@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BOYWONDER3
 - 👀 I’m interested in ... Front end web development
-- 🌱 I’m currently learning ... React 
-- 💞️ I’m looking to collaborate on ... full stack web developer internships
+- 🌱 I’m currently learning ... JavaScript 
+- 💞️ I’m looking to collaborate on ... full stack web developer internships and junior Developer Roles
 - 📫 How to reach me ... opeyemiisaacboywonder@gmail.com / +2347065282125
 
 <!---

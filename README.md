@@ -1,4 +1,3 @@
-###### ![boywonder3](https://images.pexels.com/photos/97077/pexels-photo-97077.jpeg)
 
 ## - 👋 Hi, I’m @BOYWONDER3
 - 👀 I’m interested in Front end software development
@@ -7,6 +6,10 @@
 - 📫 How to reach me opeyemiisaacboywonder@gmail.com / +2347065282125
 - Also reach me on:
 - [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/I_BOYWONDER) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/isaac-opeyemi-robert-0a20631a1/)
+
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=boywonder3&show_icons=true&theme=tokyonight" 
+/>
 
 <!---
 BOYWONDER3/BOYWONDER3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
